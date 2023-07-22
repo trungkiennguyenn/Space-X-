@@ -1,5 +1,6 @@
-# Space-X
+# musk project
 
-Dit is de Front-End Space X Project.
-
-Een front-end project gebaseerd op Elon Musk zijn SpaceX Bedrijf.
+1. Clone the repository with the SSH key: git@bitlab.bit-academy.nl:elon-musk/musk-project.git.
+2. Start up Xampp and run Apache.
+3. Open with localhost the file index.php in your browser.
+4. Test out the website and other pages in the navbar.
